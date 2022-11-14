@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Vidid5ChCadjzG2l2vy2tcHRGWvhiZvY+j7kJm+/XQAQEKVcGoY+gthlPUF5pK4/36i1A7YBUAWOcVq0i1HqNA==",
+  "dgSpecHash": "/wMuAQLdbPxPhllhtThFKEIFNKhqbZw1Zsv/m8ejR51CRzxXFGWdio1dvGL0857x9A6laytVpptuC1M30dM/Sg==",
   "success": true,
   "projectFilePath": "D:\\Testing\\AZ-204\\AzureSolution\\DemoWebApp01\\DemoWebApp01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004APHH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z004APHH\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Z004APHH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Z004APHH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
   "logs": []
 }
